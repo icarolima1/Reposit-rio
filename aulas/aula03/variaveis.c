@@ -20,6 +20,9 @@ int main() {
     printf("Valor d dizima = %.10f\n", dizima);
     dizima = 2.3333333333;
     printf("Valor da dizima = %.10f\n", dizima);
+
+    int inteiro = 10;
+    printf(%i\n, inteiro);
     
     return 0;
 }
