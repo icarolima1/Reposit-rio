@@ -23,7 +23,7 @@ int main (){
 
     for (int i = 100; i >= 1; i--) { // 10 a 1
         printf("\n%i x %i = %i", i, numero, i * numero);
-    }
+    } 
 
     return 0;
 }
